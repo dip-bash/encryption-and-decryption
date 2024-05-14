@@ -2,11 +2,10 @@ def Encode():
     key = int(input("input kay: "))
     msg = input("type your massage: ")
     msg = list(msg)
-    print(msg)
     temp = 0
     for letters in msg:
         if letters == " ":
-            letters = "!"
+            letters = "@"
 
         temp = ord(letters) + key
         print(chr(temp), end="")
@@ -23,11 +22,10 @@ def Decode():
     msg = []
     for i in range(0, y, 3):
         msg.append(x[i])
-    print(msg)
     temp = 0
     for letters in msg:
         temp = ord(letters) - key
-        if chr(temp) == "!":
+        if chr(temp) == "@":
             print(" ", end="")
         else:
             print(chr(temp), end="")
