@@ -53,6 +53,7 @@ python3 -u ./encryption_decryption.py
 
 * try to use pycharm instead of vs code
 * never use special characters
+* int key input
 
   
   
@@ -61,3 +62,8 @@ python3 -u ./encryption_decryption.py
 Technologies used in the project:
 
 *   python
+
+<h2>Project Screenshots:</h2>
+
+<img src="" alt="img/Screenshot from 2024-05-22 11-22-59.png">
+<img src="" alt="img/Screenshot from 2024-05-22 11-24-00.png">
