@@ -66,4 +66,4 @@ Technologies used in the project:
 <h2>Project Screenshots:</h2>
 
 <img src="" alt="img/Screenshot from 2024-05-22 11-22-59.png">
-<img src="" alt="img/Screenshot from 2024-05-22 11-24-00.png">
+<p align="center"><img src="img/Screenshot from 2024-05-22 11-24-00.png" alt="project-image" width="200" height="200/"></p>
