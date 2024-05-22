@@ -1,6 +1,6 @@
 <h1 align="center" id="title">encryption and decryption system</h1>
 
-<p align="center"><img src="img/encryption-line-icon-icon-for-your-website-mobile-presentation-and-logo-design-vector.jpg" alt="project-image"></p>
+<p align="center"><img src="img/encryption-line-icon-icon-for-your-website-mobile-presentation-and-logo-design-vector.jpg" alt="project-image" width="400" height="400/"></p>
 
 <p id="description">This project demonstrates a basic encryption and decryption system using Python. The system allows users to securely encrypt messages and share them ensuring that only authorized users with the correct key can decrypt and read the messages.</p>
 
