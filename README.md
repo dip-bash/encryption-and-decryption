@@ -51,8 +51,8 @@ python3 -u ./encryption_decryption.py
 
 <h2>🍰 Guidelines:</h2>
 
-try to use pycharm instead of vs code
-never use special characters
+* try to use pycharm instead of vs code
+* never use special characters
 
   
   
